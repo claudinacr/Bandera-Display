@@ -1,0 +1,27 @@
+.yellow{
+    background-color: #e4bb45;
+    padding-bottom: 3em;
+    width:200px;
+    height:100px;
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.grey{
+    background-color: #605c55;
+    padding-bottom: 3em;   
+    width:200px;
+    height:100px;
+    display: inline-block;
+    margin-right: 20px;
+    
+    
+}
+
+h4{
+    padding: 0.3em;
+}
+
+.grey{
+    color: white;
+}
