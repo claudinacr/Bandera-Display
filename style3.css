@@ -1,27 +1,25 @@
-.yellow{
+.yellow {
     background-color: #e4bb45;
     padding-bottom: 3em;
-    width:200px;
-    height:100px;
+    width: 200px;
+    height: 100px;
     display: inline-block;
     margin-right: 20px;
 }
 
-.grey{
+.grey {
     background-color: #605c55;
-    padding-bottom: 3em;   
-    width:200px;
-    height:100px;
+    padding-bottom: 3em;
+    width: 200px;
+    height: 100px;
     display: inline-block;
     margin-right: 20px;
-    
-    
 }
 
-h4{
+h4 {
     padding: 0.3em;
 }
 
-.grey{
+.grey {
     color: white;
 }
